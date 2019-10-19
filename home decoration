@@ -1,0 +1,86 @@
+<html>
+
+<head>
+
+<title>home decoration page</title>
+<style>
+table,th,td {
+border-collapse:collapse;
+}
+h2{
+margin:10px;
+}
+div#menu ul li {
+  display: inline;
+  margin: 20px;
+}
+</style>
+</head>
+
+<body style=background-color:Bisque;>
+<div align="center" style=background-color:Bisque margin=80px>
+
+<h1 font-size=10>HOME DECOR</h1>
+<h4> A nice change of Space</h4>
+</div>
+<div align="center" id="menu" style=background-color:Chocolate;>
+    <ul>
+     <li><a href="HOME.html">HOME</a></li>
+     <li><a href="DECORATING.html">DECORATION</a></li>
+    <li><a href="TRENDS.html">TRENDS</a></li>
+     <li><a href="ANTIQUES.html">ANTIQUES</a></li>
+    <li><a href="HOLIDAY.html">HOLIDAY</a></li>
+    <li><a href="OUTDOOR.html">OUTDOOR</a></li>
+</ul>
+</div>
+<table align="center" style=background-color:Cornsilk; width="500" border=3px;>
+<tr>
+<th colspan="2">
+<img src="Image.jpg" alt="living room" width="700" height="300" align="centre">
+</th>
+<tr>
+<th style=background-color:DarkOrange; width="340">Most Popular</th>
+<th style=background-color:DarkOrange; width="160">What's New?</th>
+</tr>
+<tr>
+<th>
+<ul>
+<li>sprimg cleaning tips</li>
+<br><br>
+<li>organize your home</li>
+<br><br>
+<li>Easter Decorating</li>
+<br><br>
+<li>Backyard Oasis</li>
+<br><br>
+<li>Backyart Fire Fits</li>
+</ul?>
+<P style=background-color:DarkOrange; width="340"></P>
+</th>
+<th>
+<h4 style=color:green;>Flea Markets in your Region</h4>
+<p>Great local flea markets in your area not to be missed!</P>
+<br><br>
+<h4 style=color:green;>Accessorize for spring</h4>
+<p>colorful spring accessories for every room in your home</p>
+<br><br>
+<h4 style=color:green;>Backyard Oasis</h4>
+<p>Let these summer retreats help inspire your backyard makeover</P>
+<br><br>
+<h4 style=color:green;>Repurposing Flea market</h4>
+<p>Easy ways repuprpose your flea markets</P>
+
+
+</th>
+</tr>
+
+</table>
+<br>
+
+<div id="footer" align="center" style=background-color:Darkkhaki;>
+
+  <p>&copy;2019 copyright reserved</p>
+</div>
+</body>
+
+</html>
